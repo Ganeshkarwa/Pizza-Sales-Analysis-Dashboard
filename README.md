@@ -55,4 +55,5 @@ Through thorough analysis, we have gained valuable insights into our pizza sales
 
 Feel free to contribute to this project by providing feedback, suggesting improvements, or adding new features! Let's slice through the data and uncover delicious insights together. 🍕📊
 
+![Screenshot 2024-03-22 123208](https://github.com/Ganeshkarwa/Pizza-Sales-Analysis-Dashboard/assets/140792447/9cd1e1d9-64bd-4593-bc1d-3e87f474c0da)
 
